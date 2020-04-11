@@ -4,4 +4,5 @@ s2 = int(a[3]) + int(a[4]) + int(a[5])
 if s1 == s2:
   print("Счастливый")
 else:
+
   print("Обычный")
